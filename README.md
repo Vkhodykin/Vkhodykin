@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Viktor 👋
+#### Accountant
 
+- 🌱 I am currently learning to program in Python
 <!--
 **Vkhodykin/Vkhodykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
