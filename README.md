@@ -2,6 +2,10 @@
 #### Accountant
 
 - 🌱 I am currently learning to program in Python
+- Doing excersizes 'Codewars'. I try to do at least one exercise a day.
+
+   ![Codewars](https://www.codewars.com/users/Vkhodykin/badges/large)
+
 <!--
 **Vkhodykin/Vkhodykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
